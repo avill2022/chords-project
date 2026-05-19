@@ -1,19 +1,50 @@
-CHROMATIC_SCALE = ["C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"]
-
+CHORD_ = ["C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"]
+CHORD__MINOR = ["Cm", "C#m", "Dm", "D#m", "Em", "Fm", "F#m", "Gm", "G#m", "Am", "A#m", "Bm"]
 
 def note_index(note: str) -> int:
-    return CHROMATIC_SCALE.index(note)
+    return CHORD_.index(note)
+
 
 class figures:
     def __init__(self):
-        self.index = 0
-        self.matriz = [
+        self.major = [
+                [0,-1,3,2,0,1,0],
+                [3,-1,3,5,5,5,3],
+                [5,8,7,5,5,5,8],
+                [8,8,10,10,9,8,8],
+                [10,-1,10,10,12,13,12],
+            ]
+        self.minor = [
+                [0,-1,3,2,0,1,0],
+                [3,-1,3,5,5,5,3],
+                [5,8,7,5,5,5,8],
+                [8,8,10,10,9,8,8],
+                [10,-1,10,10,12,13,12],
+            ]
+        self.major7 = [
             [0,-1,3,2,0,1,0],
             [3,-1,3,5,5,5,3],
             [5,8,7,5,5,5,8],
             [8,8,10,10,9,8,8],
             [10,-1,10,10,12,13,12],
         ]
+        self.minor7 = [
+            [0,-1,3,2,0,1,0],
+            [3,-1,3,5,5,5,3],
+            [5,8,7,5,5,5,8],
+            [8,8,10,10,9,8,8],
+            [10,-1,10,10,12,13,12],
+        ]
+    def getfigures(self,chord:str):
+        if(CHORD_.index(chord)!=-1):
+            return self.major
+        if(CHORD__MINOR.index(chord)!=-1):
+            return self.major
+
+class chords_calculator:
+    def __init__(self, matriz:figures):
+        self.index = 0
+        self.matriz = matriz
 
     def add(self, n: int):
         self.index = n
@@ -112,13 +143,16 @@ class figures:
                     #print(f'{label} |---{v}---|')
 
     def show(self):
-        note = CHROMATIC_SCALE[self.index]
+        note = CHORD_[self.index]
         for row in self.matriz:
             vals = ''.join(str(x) if x != -1 else 'x' for x in row[1:])
             capo = 'NO' if row[0] == 0 else str(row[0])
             print(f'{note}:{vals} CAPO:{capo}')
 
-data = figures()
+chord = "C#"
+
+fig = figures()
+data = chords_calculator(fig.getfigures(chord))
 #data.add(0)
 data.normaizate()
 data.organize()
