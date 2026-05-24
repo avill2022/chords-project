@@ -1,17 +1,19 @@
 from scale import Scale
 from chord import Chord
 from progression import Progression
-
-
 s = Scale()
 c = Chord()
 
-
 p = Progression(s, c)
+
 p.print_progression("C", "major")
+
 p.print_progression("A", "minor")
+
 p.print_progression_degrees("C", "major", ["I", "IV", "V"])
 p.print_progression_degrees("A", "minor", ["I", "VI", "VII"])
+
+
 p.print(
     p.get_by_degrees("C", "major", ["I", "IV", "V"]),
     "3-Chord (I-IV-V)"
