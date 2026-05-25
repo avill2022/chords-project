@@ -1,0 +1,72 @@
+{
+  "key_characteristics": [
+    {
+      "key": "C major",
+      "characteristics": ["gay", "warlike"]
+    },
+    {
+      "key": "C minor",
+      "characteristics": ["obscure", "sad"]
+    },
+    {
+      "key": "D major",
+      "characteristics": ["joyous", "very warlike"]
+    },
+    {
+      "key": "D minor",
+      "characteristics": ["serious", "pious"]
+    },
+    {
+      "key": "Eb major",
+      "characteristics": ["cruel", "hard"]
+    },
+    {
+      "key": "E major",
+      "characteristics": ["quarrelsome", "boisterous"]
+    },
+    {
+      "key": "E minor",
+      "characteristics": ["effeminate", "amorous", "plaintive"]
+    },
+    {
+      "key": "F major",
+      "characteristics": ["furious", "quick-tempered subjects"]
+    },
+    {
+      "key": "F minor",
+      "characteristics": ["obscure", "plaintive"]
+    },
+    {
+      "key": "G major",
+      "characteristics": ["serious", "magnificent"]
+    },
+    {
+      "key": "G minor",
+      "characteristics": ["serious", "magnificent"]
+    },
+    {
+      "key": "A major",
+      "characteristics": ["joyful", "pastoral"]
+    },
+    {
+      "key": "A minor",
+      "characteristics": ["tender", "plaintive"]
+    },
+    {
+      "key": "B major",
+      "characteristics": ["harsh", "plaintive"]
+    },
+    {
+      "key": "B minor",
+      "characteristics": ["solitary", "melancholic"]
+    },
+    {
+      "key": "Bb major",
+      "characteristics": ["magnificent", "joyful"]
+    },
+    {
+      "key": "Bb minor",
+      "characteristics": ["obscure", "terrible"]
+    }
+  ]
+}

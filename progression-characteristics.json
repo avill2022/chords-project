@@ -1,0 +1,40 @@
+{
+  "chord_progressions": [
+    {
+      "progression": ["C", "F", "G", "C"],
+      "moods": ["happy", "stable"]
+    },
+    {
+      "progression": ["c", "Am", "F", "G"],
+      "moods": ["romantic", "softer"]
+    },
+    {
+      "progression": ["C", "G", "Am", "F"],
+      "moods": ["catchy", "uplifting"]
+    },
+    {
+      "progression": ["Dm7", "G7", "C"],
+      "moods": ["jazz", "smooth"]
+    },
+    {
+      "progression": ["C", "Em", "F", "G"],
+      "moods": ["bright", "positive"]
+    },
+    {
+      "progression": ["C", "F", "Am", "G"],
+      "moods": ["pop-rock feel"]
+    },
+    {
+      "progression": ["C", "Em", "Am", "F"],
+      "moods": ["dreamy", "emotional"]
+    },
+    {
+      "progression": ["C", "F", "Dm", "G"],
+      "moods": ["jazz standard", "R&B"]
+    },
+    {
+      "progression": ["C", "Am", "Dm", "G"],
+      "moods": ["nostalgic", "calming"]
+    }
+  ]
+}

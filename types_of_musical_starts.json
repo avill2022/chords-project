@@ -1,0 +1,19 @@
+{
+  "types_of_musical_starts": [
+    {
+      "name": "Tierra",
+      "description": "When the song starts exactly on beat one",
+      "timing": "on the strong beat"
+    },
+    {
+      "name": "Anacrusic",
+      "description": "When it starts a little before the downbeat",
+      "timing": "before the strong beat"
+    },
+    {
+      "name": "Acephalic",
+      "description": "When it starts a little after the downbeat",
+      "timing": "after the strong beat"
+    }
+  ]
+}

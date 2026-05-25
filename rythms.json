@@ -1,0 +1,54 @@
+{"time_signatures": [
+      {
+        "meter": "4/4",
+        "description": "Most common meter. Four beats per measure, quarter note gets the beat.",
+        "basic_strum": ["D", "D", "D", "D"],
+        "common_patterns": [
+          { "name": "Basic Rock", "pattern": ["D", "·", "D", "U", "·", "D", "U", "·"] },
+          { "name": "Folk / Down-Up", "pattern": ["D", "U", "D", "U", "D", "U", "D", "U"] },
+          { "name": "Island / Reggae", "pattern": ["·", "D", "·", "U", "·", "D", "·", "U"], "feel": "off-beat, relaxed" },
+          { "name": "Pop Ballad", "pattern": ["D", "·", "D", "U", "D", "·", "D", "U"] },
+          { "name": "Funk", "pattern": ["·", "D", "·", "D", "·", "D", "·", "U"], "feel": "tight, percussive" },
+
+
+          
+        
+        
+        ]
+      },
+      {
+        "meter": "3/4",
+        "description": "Waltz time. Three beats per measure.",
+        "basic_strum": ["D", "U", "D"],
+        "common_patterns": [
+          { "name": "Waltz", "pattern": ["D", "U", "D", "·", "U", "·"] },
+          { "name": "Folk Waltz", "pattern": ["D", "·", "D", "U", "D", "·"] }
+        ]
+      },
+      {
+        "meter": "6/8",
+        "description": "Two main beats, each divided into three eighth notes. Flowing feel.",
+        "basic_strum": ["D", "U", "U", "D", "U", "U"],
+        "common_patterns": [
+          { "name": "Ballad 6/8", "pattern": ["D", "·", "U", "D", "·", "U"] },
+          { "name": "Jig", "pattern": ["D", "U", "U", "D", "U", "U"], "feel": "lively, Celtic" }
+        ]
+      },
+      {
+        "meter": "2/4",
+        "description": "March or simple folk rhythm. Two beats per measure.",
+        "basic_strum": ["D", "U"],
+        "common_patterns": [
+          { "name": "March", "pattern": ["D", "·", "D", "U"] },
+          { "name": "Folk 2/4", "pattern": ["D", "U", "D", "U"] }
+        ]
+      },
+      {
+        "meter": "12/8",
+        "description": "Blues and slow rock feel. Four main beats, each divided into three.",
+        "basic_strum": ["D", "U", "U", "D", "U", "U", "D", "U", "U", "D", "U", "U"],
+        "common_patterns": [
+          { "name": "Slow Blues", "pattern": ["D", "·", "U", "D", "·", "U", "D", "·", "U", "D", "·", "U"], "feel": "shuffle, groovy" }
+        ]
+      }
+    ]}

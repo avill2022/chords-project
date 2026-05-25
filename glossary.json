@@ -1,0 +1,502 @@
+{
+  "glossary": [
+    {
+      "term": "Acento",
+      "english": "Accent",
+      "description_es": "Énfasis con una nota o acorde.",
+      "description_en": "Emphasis on a note or chord."
+    },
+    {
+      "term": "Acorde",
+      "english": "Chord",
+      "description_es": "Dos o más notas tocadas a la vez.",
+      "description_en": "Two or more notes played simultaneously."
+    },
+    {
+      "term": "Afinación",
+      "english": "Tuning / Pitch",
+      "description_es": "Frecuencia de una nota.",
+      "description_en": "Frequency of a note."
+    },
+    {
+      "term": "Altavoz",
+      "english": "Speaker",
+      "description_es": "Cono circular para la reproducción de sonido amplificado.",
+      "description_en": "Circular cone for reproducing amplified sound."
+    },
+    {
+      "term": "Amplificador",
+      "english": "Amplifier",
+      "description_es": "Dispositivo electrónico para amplificar la señal procedente de una pastilla o un micrófono.",
+      "description_en": "Electronic device to amplify the signal from a pickup or microphone."
+    },
+    {
+      "term": "Armonía",
+      "english": "Harmony",
+      "description_es": "Relación y orden de notas musicales.",
+      "description_en": "Relationship and order of musical notes."
+    },
+    {
+      "term": "Armónicos",
+      "english": "Harmonics",
+      "description_es": "Resonancias superiores de una nota relacionadas con la fundamental, que se ejecutan tocando la cuerda en determinados puntos.",
+      "description_en": "Upper resonances of a note related to the fundamental, played by touching the string at specific points."
+    },
+    {
+      "term": "Arpegio",
+      "english": "Arpeggio",
+      "description_es": "Sucesión de notas de un acorde.",
+      "description_en": "Succession of notes from a chord."
+    },
+    {
+      "term": "Bajo",
+      "english": "Bass",
+      "description_es": "La nota más grave de un acorde con movimiento armónico.",
+      "description_en": "The lowest note of a chord with harmonic motion."
+    },
+    {
+      "term": "Becuadro",
+      "english": "Natural",
+      "description_es": "Símbolo que cancela el efecto de los sostenido y bemoles en una partitura.",
+      "description_en": "Symbol that cancels the effect of sharps and flats in a score."
+    },
+    {
+      "term": "Bemol",
+      "english": "Flat",
+      "description_es": "Símbolo (b) que se emplea para bajar una nota un semitono.",
+      "description_en": "Symbol (b) used to lower a note by a semitone."
+    },
+    {
+      "term": "Boca",
+      "english": "Soundhole",
+      "description_es": "Un orificio circular de la tapa de la guitarra, que permite que el sonido se proyecte desde la caja de resonancia.",
+      "description_en": "A circular hole in the guitar top that allows sound to project from the resonance chamber."
+    },
+    {
+      "term": "Slide",
+      "english": "Slide",
+      "description_es": "Técnica en la que se desliza una barra o tubo sobre las cuerdas para ejecutar notas o acordes.",
+      "description_en": "Technique where a bar or tube is slid over the strings to play notes or chords."
+    },
+    {
+      "term": "Calibración",
+      "english": "Calibration",
+      "description_es": "El bobinado de cada pastilla en un set diferentemente para producir un nivel equilibrado de salida al cambiar de una pastilla a otra.",
+      "description_en": "Winding each pickup in a set differently to produce a balanced output level when switching pickups."
+    },
+    {
+      "term": "Capo",
+      "english": "Capo",
+      "description_es": "Dispositivo que sirve para sujetar las cuerdas en un traste determinado, permitiendo tocar con cuerdas al aire en cualquier punto del diapasón.",
+      "description_en": "Device used to clamp strings at a specific fret, allowing open strings to be played at any point on the fingerboard."
+    },
+    {
+      "term": "Cejilla",
+      "english": "Barre",
+      "description_es": "Colocación de un dedo sobre las cuerdas para pulsar notas adyacentes.",
+      "description_en": "Placing one finger across the strings to fret adjacent notes."
+    },
+    {
+      "term": "Cejuela",
+      "english": "Nut",
+      "description_es": "Pieza de soporte de las cuerdas entre el clavijero y el diapasón.",
+      "description_en": "Support piece for the strings between the headstock and the fingerboard."
+    },
+    {
+      "term": "Clave",
+      "english": "Clef",
+      "description_es": "Símbolo que indica la posición de las notas en el pentagrama.",
+      "description_en": "Symbol that indicates the position of notes on the staff."
+    },
+    {
+      "term": "Clavija",
+      "english": "Tuning Peg / Machine Head",
+      "description_es": "Dispositivo mecánico para ajustar la afinación.",
+      "description_en": "Mechanical device for adjusting tuning."
+    },
+    {
+      "term": "Clavijero",
+      "english": "Headstock",
+      "description_es": "Sección donde van las clavijas.",
+      "description_en": "Section where the tuning pegs are located."
+    },
+    {
+      "term": "Compás",
+      "english": "Measure / Bar",
+      "description_es": "Fragmento de música en el que se agrupa un determinado número de notas en un espacio de tiempo dado.",
+      "description_en": "A segment of music grouping a specific number of notes within a given time span."
+    },
+    {
+      "term": "Contrapunto",
+      "english": "Counterpoint",
+      "description_es": "Dos o más líneas melódicas ejecutadas simultáneamente.",
+      "description_en": "Two or more melodic lines played simultaneously."
+    },
+    {
+      "term": "Controles",
+      "english": "Controls",
+      "description_es": "Normalmente potenciómetros giratorios o conmutadores que se emplean para controlar las señales eléctricas.",
+      "description_en": "Usually rotary potentiometers or switches used to control electrical signals."
+    },
+    {
+      "term": "Cordal",
+      "english": "Tailpiece",
+      "description_es": "Marco de metal o soporte para sujetar las cuerdas a la caja de la guitarra.",
+      "description_en": "Metal frame or support for attaching strings to the guitar body."
+    },
+    {
+      "term": "Cromática",
+      "english": "Chromatic",
+      "description_es": "Escala completa a la que pertenecen las doce notas de una octava separadas entre sí por un semitono.",
+      "description_en": "Complete scale of the twelve notes of an octave, each separated by a semitone."
+    },
+    {
+      "term": "Diapasón",
+      "english": "Fretboard / Fingerboard",
+      "description_es": "Sección de madera con trastes sobre la que se toca con la mano izquierda.",
+      "description_en": "Wooden section with frets played by the left hand."
+    },
+    {
+      "term": "Diatónico",
+      "english": "Diatonic",
+      "description_es": "Sistema de escalas mayores y menores de siete notas.",
+      "description_en": "System of seven-note major and minor scales."
+    },
+    {
+      "term": "Dobro",
+      "english": "Dobro",
+      "description_es": "Tipo de guitarra con resonadores.",
+      "description_en": "Type of guitar with resonators."
+    },
+    {
+      "term": "Dominante",
+      "english": "Dominant",
+      "description_es": "Nota o acorde de quinto grado de una escala diatónica.",
+      "description_en": "Fifth degree note or chord of a diatonic scale."
+    },
+    {
+      "term": "Ecualizador",
+      "english": "Equalizer",
+      "description_es": "Control para filtrar frecuencias con el fin de modificar el tono.",
+      "description_en": "Control for filtering frequencies to modify tone."
+    },
+    {
+      "term": "Estudio",
+      "english": "Étude / Study",
+      "description_es": "Pequeña pieza musical destinada a la mejora de determinados aspectos de la técnica del instrumentista. Normalmente se agrupan en colecciones.",
+      "description_en": "Short musical piece intended to improve specific aspects of instrumental technique. Often grouped in collections."
+    },
+    {
+      "term": "Fase",
+      "english": "Phase",
+      "description_es": "La relación de dos formas de onda con respecto al tiempo.",
+      "description_en": "The relationship of two waveforms with respect to time."
+    },
+    {
+      "term": "Frecuencia",
+      "english": "Frequency",
+      "description_es": "Número de ciclos por segundo. Determina la afinación.",
+      "description_en": "Number of cycles per second. Determines pitch."
+    },
+    {
+      "term": "Fuera de fase",
+      "english": "Out of Phase",
+      "description_es": "Conexión eléctrica de dos bobinas o pastillas en serie o paralelo pero con las polaridades de la señal sumadas para proporcionar al menos la cancelación parcial de la señal. Generalmente las frecuencias bajas están canceladas así que el sonido resultante es fino, careciendo de calor y a menudo bastante frágil.",
+      "description_en": "Electrical connection of two coils or pickups in series or parallel but with signal polarities summed to provide at least partial signal cancellation. Low frequencies are typically canceled, resulting in a thin sound lacking warmth and often quite fragile."
+    },
+    {
+      "term": "Gauss",
+      "english": "Gauss",
+      "description_es": "Unidad CGS de densidad magnética de flujo usada para describir la fuerza del campo de un imán.",
+      "description_en": "CGS unit of magnetic flux density used to describe the field strength of a magnet."
+    },
+    {
+      "term": "Golpeador",
+      "english": "Pickguard",
+      "description_es": "Placa que protege la caja de la guitarra.",
+      "description_en": "Plate that protects the guitar body."
+    },
+    {
+      "term": "Humbucking",
+      "english": "Humbucking",
+      "description_es": "Diseño de pastilla que consiste en dos bobinas que se suman eléctricamente fuera de fase y con polaridades magnéticas invertidas. El efecto es cancelar zumbidos (hum) y otros ruidos extraños dejando la señal de la cuerda perfectamente intacta.",
+      "description_en": "Pickup design consisting of two coils electrically summed out of phase with reversed magnetic polarities, canceling hum and extraneous noise while leaving the string signal intact."
+    },
+    {
+      "term": "Impedancia",
+      "english": "Impedance",
+      "description_es": "La resistencia al flujo de corriente alterna. En pastillas pasivas esta figura es variable con frecuencia.",
+      "description_en": "Resistance to alternating current flow. In passive pickups, this value varies with frequency."
+    },
+    {
+      "term": "Inductancia",
+      "english": "Inductance",
+      "description_es": "Característica de una bobina para oponerse a cambios de la corriente a través de ella.",
+      "description_en": "Characteristic of a coil to oppose changes in current flowing through it."
+    },
+    {
+      "term": "Intervalo",
+      "english": "Interval",
+      "description_es": "Distancia entre dos notas.",
+      "description_en": "Distance between two notes."
+    },
+    {
+      "term": "Intervalo compuesto",
+      "english": "Compound Interval",
+      "description_es": "Intervalo superior a una octava.",
+      "description_en": "Interval larger than an octave."
+    },
+    {
+      "term": "Legato",
+      "english": "Legato",
+      "description_es": "Forma de tocar notas sucesivas.",
+      "description_en": "Way of playing successive notes smoothly."
+    },
+    {
+      "term": "Luthier",
+      "english": "Luthier",
+      "description_es": "Fabricante de guitarras. Normalmente asociado con la fabricación de instrumentos clásicos.",
+      "description_en": "Guitar maker. Usually associated with classical instrument building."
+    },
+    {
+      "term": "Mecánica",
+      "english": "Action",
+      "description_es": "Altura de las cuerdas en relación con los trastes y el diapasón.",
+      "description_en": "Height of the strings relative to the frets and fingerboard."
+    },
+    {
+      "term": "Melodía",
+      "english": "Melody",
+      "description_es": "Serie de notas únicas con un modelo reconocible.",
+      "description_en": "Series of single notes forming a recognizable pattern."
+    },
+    {
+      "term": "Mili Voltio",
+      "english": "Millivolt",
+      "description_es": "Un milésimo de voltio.",
+      "description_en": "One thousandth of a volt."
+    },
+    {
+      "term": "Modo",
+      "english": "Mode",
+      "description_es": "Término que varía de significación, desde la de escala, a la de una fórmula para la construcción de melodías basándose en una escala.",
+      "description_en": "Term varying in meaning from scale to a formula for constructing melodies based on a scale."
+    },
+    {
+      "term": "Modulación",
+      "english": "Modulation",
+      "description_es": "Paso de una tonalidad a otra.",
+      "description_en": "Moving from one key to another."
+    },
+    {
+      "term": "Octava",
+      "english": "Octave",
+      "description_es": "Intervalo de 12 semitonos.",
+      "description_en": "Interval of 12 semitones."
+    },
+    {
+      "term": "Ohmio",
+      "english": "Ohm",
+      "description_es": "La unidad estándar de resistencia eléctrica.",
+      "description_en": "The standard unit of electrical resistance."
+    },
+    {
+      "term": "Paralelo",
+      "english": "Parallel",
+      "description_es": "Conexión eléctrica de dos bobinas en paralelo o de lado a lado. El efecto sónico comparado a una configuración en serie es aproximadamente 30% más bajo en salida pero con brillantez y claridad adicional en el alto extremo.",
+      "description_en": "Electrical connection of two coils side by side. Sonic effect compared to series is about 30% lower output but with added brightness and clarity in the high end."
+    },
+    {
+      "term": "Pastilla",
+      "english": "Pickup",
+      "description_es": "Dispositivo con un bobinado de alambre delgado que transforma el sonido en señales eléctricas.",
+      "description_en": "Device with thin wire coils that transforms sound into electrical signals."
+    },
+    {
+      "term": "Pastilla Activa",
+      "english": "Active Pickup",
+      "description_es": "Pastilla que usa un preamplificador electrónico para mayor realce, forma tonal y/o reducción de la impedancia de salida. Ventajas: menos susceptibilidad al ruido, mayor flexibilidad tonal y eliminación de pérdidas de altas frecuencias por longitud de cables.",
+      "description_en": "Pickup using an electronic preamplifier for greater boost, tonal shaping, and/or output impedance reduction. Advantages: less noise susceptibility, greater tonal flexibility, elimination of high-frequency loss from cable length."
+    },
+    {
+      "term": "Pastilla Pasiva",
+      "english": "Passive Pickup",
+      "description_es": "Tipo de pastilla que no utiliza ningún circuito electrónico activo interno.",
+      "description_en": "Type of pickup that does not use any internal active electronic circuit."
+    },
+    {
+      "term": "Pentagrama",
+      "english": "Staff",
+      "description_es": "Conjunto de cinco líneas y cuatro espacios sobre el que se escribe la música.",
+      "description_en": "Set of five lines and four spaces on which music is written."
+    },
+    {
+      "term": "Pentatónica",
+      "english": "Pentatonic",
+      "description_es": "Escala de cinco notas.",
+      "description_en": "Five-note scale."
+    },
+    {
+      "term": "Piezas Polares",
+      "english": "Pole Pieces",
+      "description_es": "Polos metálicos individuales que se encuentran bajo cada cuerda en una pastilla.",
+      "description_en": "Individual metal poles found under each string in a pickup."
+    },
+    {
+      "term": "Polaridad",
+      "english": "Polarity",
+      "description_es": "Relación de corrientes eléctricas positivas y negativas (o polos magnéticos Norte y Sur) entre sí.",
+      "description_en": "Relationship of positive and negative electrical currents (or North and South magnetic poles) to each other."
+    },
+    {
+      "term": "Preamplificador",
+      "english": "Preamplifier",
+      "description_es": "Dispositivo para amplificar una señal de sonido.",
+      "description_en": "Device to amplify a sound signal."
+    },
+    {
+      "term": "Púa",
+      "english": "Pick / Plectrum",
+      "description_es": "Objeto con el que se pulsan las cuerdas. Se sujeta con la mano derecha.",
+      "description_en": "Object used to pluck the strings. Held with the right hand."
+    },
+    {
+      "term": "Puente",
+      "english": "Bridge",
+      "description_es": "Sección en la que se fijan y sustentan las cuerdas de una guitarra acústica.",
+      "description_en": "Section where strings are fixed and supported on an acoustic guitar."
+    },
+    {
+      "term": "Realimentación",
+      "english": "Feedback",
+      "description_es": "Sonido producido cuando una cuerda o micrófono recoge y amplifica su propio sonido desde un altavoz.",
+      "description_en": "Sound produced when a string or microphone picks up and amplifies its own sound from a speaker."
+    },
+    {
+      "term": "Refuerzos",
+      "english": "Braces",
+      "description_es": "Tiras de madera que se encuentran bajo la tapa de la guitarra acústica para reforzarla y distribuir los tonos.",
+      "description_en": "Wooden strips found under the acoustic guitar top to reinforce it and distribute tones."
+    },
+    {
+      "term": "Resistencia CD",
+      "english": "DC Resistance",
+      "description_es": "Resistencia al flujo de Corriente Directa. Para la mayoría de las pastillas, es un indicador general de la salida y tonalidad. Una resistencia más alta tiende a ser más alta en salida y menos brillante.",
+      "description_en": "Resistance to Direct Current flow. For most pickups, it's a general indicator of output and tone. Higher resistance tends to mean higher output and less brightness."
+    },
+    {
+      "term": "Ritmo",
+      "english": "Rhythm",
+      "description_es": "Patrón de notas y acentos.",
+      "description_en": "Pattern of notes and accents."
+    },
+    {
+      "term": "Roseta",
+      "english": "Rosette",
+      "description_es": "Decoración circular en torno a la boca de la guitarra.",
+      "description_en": "Circular decoration around the soundhole."
+    },
+    {
+      "term": "Selleta",
+      "english": "Saddle",
+      "description_es": "Cejuela del puente.",
+      "description_en": "Nut of the bridge."
+    },
+    {
+      "term": "Serie",
+      "english": "Series",
+      "description_es": "Conexión eléctrica de dos bobinas en serie produciendo una salida más alta, más completa y más potencia de sonido. Es la conexión estándar para las pastillas humbucking.",
+      "description_en": "Electrical connection of two coils in series producing higher output, fuller, and more powerful sound. Standard connection for humbucking pickups."
+    },
+    {
+      "term": "Sostenido",
+      "english": "Sharp",
+      "description_es": "Símbolo (#) para subir una nota un semitono.",
+      "description_en": "Symbol (#) to raise a note by a semitone."
+    },
+    {
+      "term": "Tablatura / Tabulación",
+      "english": "Tablature",
+      "description_es": "Forma de escribir música para guitarra.",
+      "description_en": "Way of writing music for guitar."
+    },
+    {
+      "term": "Tapa de resonancia",
+      "english": "Soundboard / Top",
+      "description_es": "Parte superior de la caja de la guitarra.",
+      "description_en": "Upper part of the guitar body."
+    },
+    {
+      "term": "Tempo",
+      "english": "Tempo",
+      "description_es": "Velocidad de la música.",
+      "description_en": "Speed of the music."
+    },
+    {
+      "term": "Tierra",
+      "english": "Ground",
+      "description_es": "Un punto de referencia común en un circuito eléctrico.",
+      "description_en": "A common reference point in an electrical circuit."
+    },
+    {
+      "term": "Tonalidad",
+      "english": "Tonality / Key",
+      "description_es": "Relación con una tónica o nota eje de un sistema armónico.",
+      "description_en": "Relationship to a tonic or axis note of a harmonic system."
+    },
+    {
+      "term": "Tono",
+      "english": "Tone",
+      "description_es": "Color o calidad del sonido.",
+      "description_en": "Color or quality of sound."
+    },
+    {
+      "term": "Transductor",
+      "english": "Transducer",
+      "description_es": "Dispositivo que convierte la energía de un tipo a otra.",
+      "description_en": "Device that converts energy from one type to another."
+    },
+    {
+      "term": "Traste",
+      "english": "Fret",
+      "description_es": "Tiras metálicas que atraviesan el diapasón para determinar distancias de un semitono.",
+      "description_en": "Metal strips across the fingerboard that determine semitone distances."
+    },
+    {
+      "term": "Trémolo",
+      "english": "Tremolo",
+      "description_es": "1. Dispositivo mecánico para controlar la afinación. 2. Efecto de sonido. Equivalente al vibrato (uso común pero técnicamente distinto).",
+      "description_en": "1. Mechanical device for controlling tuning. 2. Sound effect. Equivalent to vibrato (common usage but technically distinct)."
+    },
+    {
+      "term": "Triada",
+      "english": "Triad",
+      "description_es": "Acorde de tres notas con intervalos de tercera.",
+      "description_en": "Three-note chord with intervals of a third."
+    },
+    {
+      "term": "Varilla tensora",
+      "english": "Truss Rod",
+      "description_es": "Varilla metálica de refuerzo que permite estabilizar y ajustar el mástil.",
+      "description_en": "Reinforcing metal rod that allows stabilizing and adjusting the neck."
+    },
+    {
+      "term": "Vibrato",
+      "english": "Vibrato",
+      "description_es": "Véase Trémolo (uso común como sinónimo, aunque técnicamente diferentes).",
+      "description_en": "See Tremolo (commonly used as a synonym, though technically different)."
+    },
+    {
+      "term": "Voltio",
+      "english": "Volt",
+      "description_es": "Unidad práctica de fuerza electromotriz, la presión que hace una corriente de un amperio atravesar una resistencia de un ohmio.",
+      "description_en": "Practical unit of electromotive force, the pressure that makes a current of one ampere flow through a resistance of one ohm."
+    },
+    {
+      "term": "Zoque",
+      "english": "Neck Joint / Heel",
+      "description_es": "Sección reforzada que sustenta al mástil donde se une a la caja.",
+      "description_en": "Reinforced section supporting the neck where it joins the body."
+    }
+  ]
+}

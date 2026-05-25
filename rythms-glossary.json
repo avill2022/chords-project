@@ -1,0 +1,63 @@
+{
+"accent_and_dynamics": [
+      {
+        "technique": "Accented downstroke",
+        "symbol": ">D",
+        "description": "Hit harder, often on beats 1 and 3."
+      },
+      {
+        "technique": "Ghost stroke",
+        "symbol": "(U) or (D)",
+        "description": "Muted or very soft strum for texture."
+      },
+      {
+        "technique": "Palm mute",
+        "symbol": "PM",
+        "description": "Rest palm lightly on strings near bridge for a percussive, dampened sound."
+      },
+      {
+        "technique": "Chord chop",
+        "symbol": "X",
+        "description": "Release fretting hand pressure after strumming for a percussive 'chick' sound (reggae / ska)."
+      }
+    ],
+
+
+
+"common_styles": [
+      {
+        "style": "Flamenco / Rasgueado",
+        "instrument": "Guitar, vihuela",
+        "description": "Fast, rolling strum using multiple fingers (down-up-down-up in rapid succession)."
+      },
+      {
+        "style": "Classical arpeggio",
+        "instrument": "Guitar, vihuela",
+        "description": "Plucking strings individually with fingers (p, i, m, a) rather than strumming."
+      },
+      {
+        "style": "Ukulele island strum",
+        "instrument": "Ukulele",
+        "description": "D - U - D - U with accent on off-beats (2 and 4), often using chuck (muted strum)."
+      },
+      {
+        "style": "Campfire strum",
+        "instrument": "Guitar, ukulele",
+        "description": "D D U U D U, steady and full, good for singing along."
+      },
+      {
+        "style": "Fingerstyle pattern (basic)",
+        "instrument": "Guitar, vihuela, ukulele",
+        "pattern": "Thumb (bass) + index/middle/ring picking individual strings",
+        "example_4_4": "p - i - m - i  (thumb on bass, then index, middle, index on treble strings)"
+      }
+    ],
+    "tips": [
+      "Start slow with a metronome.",
+      "Use a light touch for upstrokes, stronger for downstrokes.",
+      "Keep your strumming hand moving constantly (down-up motion) even on rests.",
+      "For vihuela: use lighter, faster strokes; gut/nylon strings respond to nail or fingertip.",
+      "For ukulele: strum over the neck joint (not soundhole) for brighter tone.",
+      "For guitar: vary strumming position (near bridge = brighter, over soundhole = fuller)."
+    ]
+  }

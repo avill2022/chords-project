@@ -1,3 +1,44 @@
+'''
+Triadas 
+
+C   (X32010)        F   (133211)        G7  (320001)
+D   (XX0232)        G   (320033)        A7  (X02020)
+E   (022100)        A   (X02220)        B7  (X21202)
+F   (133211)        Bb  (X13331)        C7  (X32310)
+G   (320033)        C   (X32010)        D7  (XX0212)
+A   (X02220)        D   (XX0232)        E7  (020100)
+B   (X13331)        E   (022100)        F#7 (255422)
+Circulos Armónicos 
+
+C   (X32010)        Am  (X02210)        Dm  (XX0231)        G7  (320001)
+D   (XX0232)        Bm  (X14421)        Em  (022000)        A7  (X02020)
+E   (022100)        C#m (X35543)        F#m (244222)        B7  (X21202)
+F   (133211)        Dm  (XX0231)        Gm  (355333)        C7  (X32310)
+G   (320033)        Em  (022000)        Am  (X02210)        D7  (XX0212)
+A   (X02220)        F#m (244222)        Bm  (X24432)        E7  (020100)
+B   (X13331)        G#m (X46654)        C#m (X46644)        F#7 (242322)
+Circulos Melódicos 
+
+C   (X32010)        Am  (X02210)        F   (133211)        G7  (320001)
+D   (XX0232)        Bm  (X14421)        G   (320033)        A7  (X02020)
+E   (022100)        C#m (X35543)        A   (X02220)        B7  (X21202)
+F   (133211)        Dm  (XX0231)        Bb  (X13331)        C7  (X32310)
+G   (320033)        Em  (022000)        C   (X32010)        D7  (XX0212)
+A   (X02220)        F#m (244222)        D   (XX0232)        E7  (020100)
+B   (X13331)        G#m (X46654)        E   (022100)        F#7 (240302)
+Cuartas Menores 
+
+Cm        Fm        Bb7       Eb        Ab        Fm        G7
+Dm        Gm        C7        F         Bb        Gm        A7
+Em        Am        D7        G         C         Am        B7
+Fm        Bbm       Eb7       Ab        Db        Bbm       C7
+Gm        Cm        F7        Bb        Eb        C         D7
+Am        Dm        G7        C         F         Dm        E7
+Bm        Em        A7        D         G         Em        F#7
+
+
+'''
+
 class Progression:
     def __init__(self, scale_obj, chord_obj):
         self.scale = scale_obj
